@@ -1,2 +1,2 @@
-# odm-test-companion-samples
-Sample test files for ODM Test Companion
+# odm-test-bee-samples
+Sample test files for ODM Test Bee
